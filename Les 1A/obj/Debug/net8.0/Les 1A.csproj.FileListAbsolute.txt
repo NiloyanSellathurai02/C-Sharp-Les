@@ -1,0 +1,14 @@
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/bin/Debug/net8.0/Les 1A
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/bin/Debug/net8.0/Les 1A.deps.json
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/bin/Debug/net8.0/Les 1A.runtimeconfig.json
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/bin/Debug/net8.0/Les 1A.dll
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/bin/Debug/net8.0/Les 1A.pdb
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.AssemblyInfoInputs.cache
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.AssemblyInfo.cs
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.csproj.CoreCompileInputs.cache
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.dll
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/refint/Les 1A.dll
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.pdb
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/Les 1A.genruntimeconfig.cache
+/Users/n.sellathurai/Documents/Development/C#/Les 1A/obj/Debug/net8.0/ref/Les 1A.dll
