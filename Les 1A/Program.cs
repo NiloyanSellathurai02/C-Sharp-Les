@@ -14,6 +14,10 @@ if(b == 0){
 
 string globalNumber = "5";
 
+static void multiplyGlobalNumber (int value){
+    int result = value * int
+}
+
 
 
 divideNumber(10 , 5);
